@@ -9,7 +9,7 @@
 	</parent>
 	<groupId>com.abhiesa</groupId>
 	<artifactId>devops-workshop-1</artifactId>
-	<version>0.0.2-SNAPSHOT</version>
+	<version>1.1.0-SNAPSHOT</version>
 	<packaging>war</packaging>
 	<name>devops-workshop-1</name>
 	<description>devops  workshop 1</description>
