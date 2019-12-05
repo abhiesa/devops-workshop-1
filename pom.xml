@@ -83,7 +83,7 @@
 
 	<scm>
 		<url>scm:git:git@github.com:abhiesa/devops-workshop-1.git</url>
-		<tag>HEAD</tag>
+		<tag>v1.1.0</tag>
 		<connection>scm:git:git@github.com:abhiesa/devops-workshop-1.git</connection>
 		<developerConnection>scm:git:git@github.com:abhiesa/devops-workshop-1.git</developerConnection>
 	</scm>
