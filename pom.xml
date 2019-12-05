@@ -9,7 +9,7 @@
 	</parent>
 	<groupId>com.abhiesa</groupId>
 	<artifactId>devops-workshop-1</artifactId>
-	<version>1.3.1-SNAPSHOT</version>
+	<version>1.3.1</version>
 	<packaging>war</packaging>
 	<name>devops-workshop-1</name>
 	<description>devops  workshop 1</description>
@@ -83,7 +83,7 @@
 
 	<scm>
 		<url>scm:git:git@github.com:abhiesa/devops-workshop-1.git</url>
-		<tag>v1.1.0</tag>
+		<tag>v1.3.1</tag>
 		<connection>scm:git:git@github.com:abhiesa/devops-workshop-1.git</connection>
 		<developerConnection>scm:git:git@github.com:abhiesa/devops-workshop-1.git</developerConnection>
 	</scm>
